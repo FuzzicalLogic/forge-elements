@@ -1,0 +1,32 @@
+{
+	"name": "forge-elements",
+	"version": "0.1.0",
+	"description": "Elements to aid development and debugging of web and nativeweb applications.",
+	"keywords": [
+		"web-components",
+		"polymer",
+		"nativeweb"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/FuzzicalLogic/forge-elements.git"
+	},
+	"dependencies": {
+		"forge-reloader": "FuzzicalLogic/forge-reloader#~0",
+		"forge-repainter": "FuzzicalLogic/forge-repainter#~0",
+		"forge-titlebar-insert": "FuzzicalLogic/forge-titlebar-insert#~0"
+	},
+	"homepage": "https://github.com/FuzzicalLogic/forge-elements",
+	"authors": [
+		"Donald Atkinson"
+	],
+	"license": "http://polymer.github.io/LICENSE.txt",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	],
+	"main": "index.html"
+}
