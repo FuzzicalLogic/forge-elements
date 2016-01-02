@@ -4,5 +4,6 @@ Compilation of custom elements developed to aid the development and debugging of
 
 ## New Elements
 
-* [`<native-window>`](https://github.com/FuzzicalLogic/native-window) - Adds the function and default interfaces and behaviors for stylizable native windows/forms.
-* [`<native-title-bar>`](https://github.com/FuzzicalLogic/native-title-bar) - Element that mimics the Operating System's title bar.
+* [`<forge-reloader>`](https://github.com/FuzzicalLogic/forge-reloader) - Button and hotkey that allows convenient reloading of nativeweb windows.
+* [`<forge-repainter>`](https://github.com/FuzzicalLogic/forge-repainter) - Button and hotkey that allows convenient repainting of document stylesheets (not for use with web component stylesheets).
+* [`<forge-titlebar-insert>`](https://github.com/FuzzicalLogic/forge-titlebar-insert) - Mini toolbar of the most common forge-elements for insertion into a native-title-bar.
